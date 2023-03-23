@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "coxsei"]
+	path = coxsei
+	url = https://github.com/cran/coxsei
+	shallow = true
+	registered = true
+[submodule "ibs"]
+	path = ibs
+	url = https://github.com/cran/ibs
+	shallow = true
+	registered = true
+[submodule "IHSEP"]
+	path = IHSEP
+	url = https://github.com/cran/IHSEP
+	shallow = true
+	registered = true
+[submodule "lpint"]
+	path = lpint
+	url = https://github.com/cran/lpint
+	shallow = true
+	registered = true
+[submodule "RHawkes"]
+	path = RHawkes
+	url = https://github.com/cran/RHawkes
+	shallow = true
+	registered = true
